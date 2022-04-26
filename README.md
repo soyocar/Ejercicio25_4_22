@@ -1,2 +1,2 @@
-# Ejercicio25_4_22
+# TypeScript
 Created with CodeSandbox
